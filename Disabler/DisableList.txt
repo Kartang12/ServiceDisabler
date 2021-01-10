@@ -1,0 +1,5 @@
+﻿UsoSvc
+WaaSMedicSvc
+wuauserv
+msiserver
+TrustedInstaller

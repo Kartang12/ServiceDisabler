@@ -1,0 +1,278 @@
+﻿AJRouter - Служба маршрутизатора AllJoyn
+ALG - Служба шлюза уровня приложения
+AppIDSvc - Удостоверение приложения
+Appinfo - Сведения о приложении
+AppMgmt - Управление приложениями
+AppReadiness - Готовность приложений
+AppVClient - Microsoft App-V Client
+AppXSvc - Служба развертывания AppX (AppXSVC)
+aspnet_state - ASP.NET State Service
+AssignedAccessManagerSvc - Служба AssignedAccessManager
+AudioEndpointBuilder - Средство построения конечных точек Windows Audio
+Audiosrv - Windows Audio
+autotimesvc - Время в сети мобильной связи
+AxInstSV - Установщик ActiveX (AxInstSV)
+BDESVC - Служба шифрования дисков BitLocker
+BEService - BattlEye Service
+BFE - Служба базовой фильтрации
+BITS - Фоновая интеллектуальная служба передачи (BITS)
+BrokerInfrastructure - Служба инфраструктуры фоновых задач
+BTAGService - Служба звукового шлюза Bluetooth
+BthAvctpSvc - Служба AVCTP
+bthserv - Служба поддержки Bluetooth
+camsvc - Служба диспетчера доступа к возможностям
+CDPSvc - Служба платформы подключенных устройств
+CertPropSvc - Распространение сертификата
+ClickToRunSvc - Служба Microsoft Office "Нажми и работай"
+ClipSVC - Служба лицензий клиента (ClipSVC)
+COMSysApp - Системное приложение COM+
+CoreMessagingRegistrar - CoreMessaging
+cphs - Intel(R) Content Protection HECI Service
+cplspcon - Intel(R) Content Protection HDCP Service
+CryptSvc - Службы криптографии
+CscService - Автономные файлы
+DcomLaunch - Модуль запуска процессов DCOM-сервера
+defragsvc - Оптимизация дисков
+DeviceAssociationService - Служба сопоставления устройств
+DeviceInstall - Служба установки устройств
+DevQueryBroker - Брокер фонового обнаружения DevQuery
+Dhcp - DHCP-клиент
+diagnosticshub.standardcollector.service - Стандартная служба сборщика центра диагностики Microsoft (R)
+diagsvc - Diagnostic Execution Service
+DispBrokerDesktopSvc - Служба политики отображения
+DisplayEnhancementService - Служба улучшения отображения
+DmEnrollmentSvc - Служба регистрации управления устройством
+Dnscache - DNS-клиент
+DoSvc - Оптимизация доставки
+dot3svc - Проводная автонастройка
+DPS - Служба политики диагностики
+DsmSvc - Диспетчер настройки устройств
+DsSvc - Служба совместного доступа к данным
+DusmSvc - Использование данных
+Eaphost - Расширяемый протокол проверки подлинности (EAP)
+EasyAntiCheat - EasyAntiCheat
+EFS - Шифрованная файловая система (EFS)
+embeddedmode - Встроенный режим
+EntAppSvc - Служба управления корпоративными приложениями
+esifsvc - Intel(R) Dynamic Platform and Thermal Framework service
+EventLog - Журнал событий Windows
+EventSystem - Система событий COM+
+Fax - Факс
+fdPHost - Хост поставщика функции обнаружения
+FDResPub - Публикация ресурсов обнаружения функции
+fhsvc - Служба истории файлов
+FontCache - Служба кэша шрифтов Windows
+FrameServer - Сервер кадров камеры Windows
+FvSvc - NVIDIA FrameView SDK service
+GoogleChromeElevationService - Google Chrome Elevation Service (GoogleChromeElevationService)
+gpsvc - Клиент групповой политики
+GraphicsPerfSvc - GraphicsPerfSvc
+gupdate - Служба Google Update (gupdate)
+gupdatem - Служба Google Update (gupdatem)
+hidserv - Доступ к HID-устройствам
+HvHost - Служба узла HV
+icssvc - Служба Windows Mobile Hotspot
+igccservice - Intel(R) Graphics Command Center Service
+igfxCUIService2.0.0.0 - Intel(R) HD Graphics Control Panel Service
+IKEEXT - Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности
+InstallService - Служба установки Microsoft Store
+iphlpsvc - Вспомогательная служба IP
+IpxlatCfgSvc - Служба настройки преобразования IP-адресов
+jhi_service - Intel(R) Dynamic Application Loader Host Interface Service
+KeyIso - Изоляция ключей CNG
+KtmRm - KtmRm для координатора распределенных транзакций
+LanmanServer - Сервер
+LanmanWorkstation - Рабочая станция
+lfsvc - Служба географического положения
+LicenseManager - Служба Windows License Manager
+lltdsvc - Тополог канального уровня
+lmhosts - Модуль поддержки NetBIOS через TCP/IP
+LSM - Диспетчер локальных сеансов
+LxpSvc - Служба Language Experience Service
+MapsBroker - Диспетчер скачанных карт
+MixedRealityOpenXRSvc - Windows Mixed Reality OpenXR Service
+mpssvc - Брандмауэр Защитника Windows
+MSDTC - Координатор распределенных транзакций
+MSiSCSI - Служба инициатора Майкрософт iSCSI
+msiserver - Установщик Windows
+MSSQL$SQLEXPRESS - SQL Server (SQLEXPRESS)
+NaturalAuthentication - Проверка подлинности на основе физических параметров
+NcaSvc - Помощник по подключению к сети
+NcbService - Посредник подключений к сети
+NcdAutoSetup - Автоматическая настройка сетевых устройств
+Netlogon - Сетевой вход в систему
+Netman - Сетевые подключения
+netprofm - Служба списка сетей
+NetSetupSvc - Служба настройки сети
+NetTcpPortSharing - Служба общего доступа к портам Net.Tcp
+NgcCtnrSvc - Контейнер службы Microsoft Passport
+NgcSvc - Служба Microsoft Passport
+NlaSvc - Служба сведений о подключенных сетях
+nsi - Служба интерфейса сохранения сети
+NvContainerLocalSystem - NVIDIA LocalSystem Container
+NVDisplay.ContainerLocalSystem - NVIDIA Display Container LS
+OpenVPNServiceInteractive - OpenVPN Interactive Service
+Origin Client Service - Origin Client Service
+Origin Web Helper Service - Origin Web Helper Service
+ose64 - Office 64 Source Engine
+p2pimsvc - Диспетчер удостоверения сетевых участников
+p2psvc - Группировка сетевых участников
+PcaSvc - Служба помощника по совместимости программ
+PeerDistSvc - BranchCache
+perceptionsimulation - Служба имитации восприятия Windows
+PerfHost - Хост библиотеки счетчика производительности
+PhoneSvc - Телефонная связь
+pla - Журналы и оповещения производительности
+PlugPlay - Plug and Play
+PNRPAutoReg - Служба публикации имен компьютеров PNRP
+PNRPsvc - Протокол PNRP
+PolicyAgent - Агент политики IPsec
+Power - Питание
+PrintNotify - Расширения и уведомления для принтеров
+ProfSvc - Служба профилей пользователей
+PushToInstall - Служба PushToInstall Windows
+QWAVE - Quality Windows Audio Video Experience
+RasAuto - Диспетчер автоматических подключений удаленного доступа
+RasMan - Диспетчер подключений удаленного доступа
+RemoteAccess - Маршрутизация и удаленный доступ
+RemoteRegistry - Удаленный реестр
+RetailDemo - Служба демонстрации магазина
+RmSvc - Служба управления радио
+RpcEptMapper - Сопоставитель конечных точек RPC
+RpcLocator - Локатор удаленного вызова процедур (RPC)
+RpcSs - Удаленный вызов процедур (RPC)
+RtkAudioService - Realtek Audio Service
+SamSs - Диспетчер учетных записей безопасности
+SCardSvr - Смарт-карта
+ScDeviceEnum - Служба перечисления устройств чтения смарт-карт
+Schedule - Планировщик заданий
+SCPolicySvc - Политика удаления смарт-карт
+SDRSVC - Программа архивации данных
+seclogon - Вторичный вход в систему
+SecurityHealthService - Служба "Безопасность Windows"
+SEMgrSvc - Диспетчер платежей и NFC/защищенных элементов
+SENS - Служба уведомления о системных событиях
+Sense - Служба Advanced Threat Protection в Защитнике Windows
+SensorDataService - Служба данных датчиков
+SensorService - Служба датчиков
+SensrSvc - Служба наблюдения за датчиками
+SessionEnv - Настройка сервера удаленных рабочих столов
+SgrmBroker - Брокер мониторинга среды выполнения System Guard
+SharedAccess - Общий доступ к подключению к Интернету (ICS)
+SharedRealitySvc - Служба пространственных данных
+ShellHWDetection - Определение оборудования оболочки
+shpamsvc - Shared PC Account Manager
+smphost - SMP дисковых пространств (Майкрософт)
+SmsRouter - Служба маршрутизатора SMS Microsoft Windows.
+SNMPTRAP - Ловушка SNMP
+spectrum - Служба восприятия Windows
+Spooler - Диспетчер печати
+sppsvc - Защита программного обеспечения
+SQLAgent$SQLEXPRESS - Агент SQL Server (SQLEXPRESS)
+SQLBrowser - Обозреватель SQL Server
+SQLTELEMETRY$SQLEXPRESS - SQL Server CEIP service (SQLEXPRESS)
+SQLWriter - SQL Server, службы синхронизации контроля версий
+SSDPSRV - Обнаружение SSDP
+ssh-agent - OpenSSH Authentication Agent
+SstpSvc - Служба SSTP
+ss_conn_service - SAMSUNG Mobile Connectivity Service
+ss_conn_service2 - SAMSUNG Mobile Connectivity Service V2
+StateRepository - Служба репозитория состояний
+Steam Client Service - Steam Client Service
+stisvc - Служба загрузки изображений Windows (WIA)
+StorSvc - Служба хранилища
+svsvc - Быстрая проверка
+swprv - Программный поставщик теневого копирования (Microsoft)
+SysMain - SysMain
+SystemEventsBroker - Брокер системных событий
+TabletInputService - Служба сенсорной клавиатуры и панели рукописного ввода
+TapiSrv - Телефония
+TermService - Службы удаленных рабочих столов
+Themes - Темы
+TieringEngineService - Управление уровнями хранилища
+TimeBrokerSvc - Брокер времени
+TokenBroker - Диспетчер учетных веб-записей
+TrkWks - Клиент отслеживания изменившихся связей
+TroubleshootingSvc - Рекомендованная служба устранения неполадок
+TrustedInstaller - Установщик модулей Windows
+TunnelBearMaintenance - TunnelBear Maintenance
+tzautoupdate - Автоматическое обновление часового пояса
+UevAgentService - Служба виртуализации взаимодействия с пользователем
+UmRdpService - Перенаправитель портов пользовательского режима служб удаленных рабочих столов
+upnphost - Узел универсальных PNP-устройств
+UserManager - Диспетчер пользователей
+UsoSvc - Служба оркестратора обновлений
+VacSvc - Служба компоновщика объемного звука
+VaultSvc - Диспетчер учетных данных
+vds - Виртуальный диск
+vmicguestinterface - Интерфейс гостевой службы Hyper-V
+vmicheartbeat - Служба пульса (Hyper-V)
+vmickvpexchange - Служба обмена данными (Hyper-V)
+vmicrdv - Служба виртуализации удаленных рабочих столов Hyper-V
+vmicshutdown - Служба завершения работы в качестве гостя (Hyper-V)
+vmictimesync - Служба синхронизации времени Hyper-V
+vmicvmsession - Служба Hyper-V PowerShell Direct
+vmicvss - Служба запросов на теневое копирование томов Hyper-V
+VSS - Теневое копирование тома
+VSStandardCollectorService150 - Visual Studio Standard Collector Service 150
+W32Time - Служба времени Windows
+WaaSMedicSvc - Служба Medic центра обновления Windows
+WalletService - Служба кошелька
+WarpJITSvc - WarpJITSvc
+WavesSysSvc - Waves Audio Services
+wbengine - Служба модуля архивации на уровне блоков
+WbioSrvc - Биометрическая служба Windows
+Wcmsvc - Диспетчер подключений Windows
+wcncsvc - Немедленные подключения Windows - регистратор настройки
+WdiServiceHost - Узел службы диагностики
+WdiSystemHost - Узел системы диагностики
+WdNisSvc - Служба проверки сети антивирусной программы Microsoft Defender
+WebClient - Веб-клиент
+Wecsvc - Сборщик событий Windows
+WEPHOSTSVC - Служба узла поставщика шифрования Windows
+wercplsupport - Поддержка панели управления "Отчеты о проблемах"
+WerSvc - Служба регистрации ошибок Windows
+WFDSConMgrSvc - Служба диспетчера подключений служб Wi-Fi Direct
+WiaRpc - События получения неподвижных изображений
+WinDefend - Служба антивирусной программы Microsoft Defender
+WinHttpAutoProxySvc - Служба автоматического обнаружения веб-прокси WinHTTP
+Winmgmt - Инструментарий управления Windows
+WinRM - Служба удаленного управления Windows (WS-Management)
+wisvc - Служба предварительной оценки Windows
+WlanSvc - Служба автонастройки WLAN
+wlidsvc - Помощник по входу в учетную запись Майкрософт
+wlpasvc - Служба помощника по локальному профилю
+WManSvc - Служба управления Windows
+wmiApSrv - Адаптер производительности WMI
+WMPNetworkSvc - Служба общих сетевых ресурсов проигрывателя Windows Media
+workfolderssvc - Рабочие папки
+WpcMonSvc - Родительский контроль
+WPDBusEnum - Служба перечислителя переносных устройств
+WpnService - Служба системы push-уведомлений Windows
+wscsvc - Центр обеспечения безопасности
+WSearch - Windows Search
+wuauserv - Центр обновления Windows
+WwanSvc - Автонастройка WWAN
+XblAuthManager - Диспетчер проверки подлинности Xbox Live
+XblGameSave - Сохранение игр на Xbox Live
+XboxGipSvc - Xbox Accessory Management Service
+XboxNetApiSvc - Сетевая служба Xbox Live
+AarSvc_5b8f2 - Agent Activation Runtime_5b8f2
+BcastDVRUserService_5b8f2 - Пользовательская служба DVR для игр и трансляции_5b8f2
+BluetoothUserService_5b8f2 - Служба поддержки пользователей Bluetooth_5b8f2
+CaptureService_5b8f2 - CaptureService_5b8f2
+cbdhsvc_5b8f2 - Пользовательская служба буфера обмена_5b8f2
+CDPUserSvc_5b8f2 - Служба пользователя платформы подключенных устройств_5b8f2
+ConsentUxUserSvc_5b8f2 - ConsentUX_5b8f2
+CredentialEnrollmentManagerUserSvc_5b8f2 - CredentialEnrollmentManagerUserSvc_5b8f2
+DeviceAssociationBrokerSvc_5b8f2 - DeviceAssociationBroker_5b8f2
+DevicePickerUserSvc_5b8f2 - DevicePicker_5b8f2
+DevicesFlowUserSvc_5b8f2 - DevicesFlow_5b8f2
+MessagingService_5b8f2 - MessagingService_5b8f2
+OneSyncSvc_5b8f2 - Синхронизация узла_5b8f2
+PimIndexMaintenanceSvc_5b8f2 - Служба контактных данных_5b8f2
+PrintWorkflowUserSvc_5b8f2 - PrintWorkflow_5b8f2
+UdkUserSvc_5b8f2 - Пользовательская служба UDK_5b8f2
+UnistoreSvc_5b8f2 - Служба хранения данных пользователя_5b8f2
+UserDataSvc_5b8f2 - Служба доступа к данным пользователя_5b8f2
+WpnUserService_5b8f2 - Пользовательская служба push-уведомлений Windows_5b8f2
