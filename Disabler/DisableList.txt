@@ -3,3 +3,4 @@ WaaSMedicSvc
 wuauserv
 msiserver
 TrustedInstaller
+BITS
